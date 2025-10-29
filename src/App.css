@@ -1,0 +1,23 @@
+.app {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #e1d0b338;
+}
+
+.open-btn {
+  padding: 10px 20px;
+  background-color: #6b2828;
+  color: white;
+  border: #f4f4f4;
+  font-weight: bold;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.open-btn:hover {
+  background-color: #4e0d0d;
+}
